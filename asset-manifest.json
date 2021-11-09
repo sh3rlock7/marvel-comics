@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sh3rlock7/marvel-comics/static/css/main.b0e7fb55.chunk.css",
+    "main.js": "/sh3rlock7/marvel-comics/static/js/main.43f3f925.chunk.js",
+    "main.js.map": "/sh3rlock7/marvel-comics/static/js/main.43f3f925.chunk.js.map",
+    "runtime-main.js": "/sh3rlock7/marvel-comics/static/js/runtime-main.4788531e.js",
+    "runtime-main.js.map": "/sh3rlock7/marvel-comics/static/js/runtime-main.4788531e.js.map",
+    "static/js/2.ae20ba6c.chunk.js": "/sh3rlock7/marvel-comics/static/js/2.ae20ba6c.chunk.js",
+    "static/js/2.ae20ba6c.chunk.js.map": "/sh3rlock7/marvel-comics/static/js/2.ae20ba6c.chunk.js.map",
+    "index.html": "/sh3rlock7/marvel-comics/index.html",
+    "static/css/main.b0e7fb55.chunk.css.map": "/sh3rlock7/marvel-comics/static/css/main.b0e7fb55.chunk.css.map",
+    "static/js/2.ae20ba6c.chunk.js.LICENSE.txt": "/sh3rlock7/marvel-comics/static/js/2.ae20ba6c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/sh3rlock7/marvel-comics/static/media/spidersense.e222d9b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4788531e.js",
+    "static/js/2.ae20ba6c.chunk.js",
+    "static/css/main.b0e7fb55.chunk.css",
+    "static/js/main.43f3f925.chunk.js"
+  ]
+}
